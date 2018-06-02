@@ -1,3 +1,5 @@
 /.idea
-*/node_modules
-*/node_modules/*.*
+Angular_4_Seed_Project/node_modules/*
+.vscode/*
+*/.bin/*
+package-lock.json
